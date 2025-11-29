@@ -1,0 +1,1 @@
+# solar-azimuth-calculator
